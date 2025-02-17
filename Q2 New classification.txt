@@ -1,0 +1,10 @@
+Q2 New classification
+
+steps
+tokenization
+lemmatization
+stop word removal
+Tf-idf vectorization
+Linear Regression
+
+
